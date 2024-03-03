@@ -12,7 +12,17 @@
 }
 
 .right-image {
-  height: auto;
-  width: 250px;
   float: right;
+}
+
+.h2-heading {
+  color: grey;
+}
+
+.page{
+  background-color: whitesmoke;
+}
+
+.indent-paragraph {
+  padding: 20px;
 }
