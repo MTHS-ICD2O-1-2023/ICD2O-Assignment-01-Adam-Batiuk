@@ -15,7 +15,7 @@
   float: right;
 }
 
-.h2-heading {
+.h3-heading {
   color: grey;
 }
 
@@ -25,4 +25,8 @@
 
 .indent-paragraph {
   padding: 20px;
+}
+
+.big-quote {
+  text-align: center;
 }
